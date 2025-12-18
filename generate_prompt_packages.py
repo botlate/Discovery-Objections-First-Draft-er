@@ -427,7 +427,7 @@ def generate_prompt_package(discovery_path, matrix_path, explanation_temp, outpu
     # === INSTRUCTIONS ===
     lines.append("## DRAFTING INSTRUCTIONS")
     lines.append("")
-    lines.append(f"Draft {dtype} responses using the **JT three-layer format**.")
+    lines.append(f"Draft {dtype} responses using the **three-layer format**.")
     lines.append(f"Use **\"{noun}\"** as the discovery type (not \"request\" generically).")
     lines.append("")
     lines.append("### STRUCTURE (every response MUST follow)")
