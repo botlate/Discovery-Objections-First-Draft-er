@@ -1,4 +1,4 @@
-# Discovery Objections Drafter
+# Discovery Objections First Draft-er
 
 ## Objective
 Generates first-draft discovery responses by letting an AI assemble objections from your firm's approved templates based on a spreadsheet selection matrix.
