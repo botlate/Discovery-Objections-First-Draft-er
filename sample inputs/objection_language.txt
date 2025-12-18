@@ -1,0 +1,237 @@
+DISCOVERY OBJECTIONS - APPROVED LANGUAGE TEMPLATES
+==================================================
+Version: 3.0
+Last Updated: December 2025
+
+These are the APPROVED objection templates. Use them as your foundation,
+filling in [SPECIFY] placeholders with request-specific content.
+
+================================================================================
+SPECIFIC OBJECTION TEMPLATES
+================================================================================
+
+--------------------------------------------------------------------------------
+1. RELEVANCE
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+seeks information that is not relevant to the subject matter of the pending 
+action and is not reasonably calculated to lead to the discovery of admissible 
+evidence. (Cal. Code Civ. Proc. § 2017.010.)
+
+--------------------------------------------------------------------------------
+2. COMPOUND
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+is impermissibly compound and contains subparts in violation of California Code 
+of Civil Procedure section 2030.060.
+
+--------------------------------------------------------------------------------
+3. VAGUE AND AMBIGUOUS
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+is vague, ambiguous, and unintelligible as to [SPECIFY term or phrase], such 
+that Responding Party cannot identify with reasonable certainty the information 
+requested.
+
+--------------------------------------------------------------------------------
+4. SPECULATION
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+calls for speculation.
+
+--------------------------------------------------------------------------------
+5. ASSUMES FACTS
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+is argumentative and assumes the existence of facts not in evidence, 
+specifically [SPECIFY the assumed fact].
+
+--------------------------------------------------------------------------------
+6. EXPERT OPINION
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+calls for an expert opinion which the Responding Party is not qualified to 
+provide, or alternatively, that it seeks information protected from disclosure 
+until the time for the simultaneous exchange of expert witness information 
+under California Code of Civil Procedure section 2034.210.
+
+--------------------------------------------------------------------------------
+7. LEGAL CONCLUSION
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+calls for a legal conclusion rather than the statement of facts.
+
+--------------------------------------------------------------------------------
+8. OVERBROAD
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+is overbroad, oppressive, and unduly burdensome in that it seeks information 
+that is neither relevant to the subject matter of this action nor reasonably 
+calculated to lead to the discovery of admissible evidence.
+
+--------------------------------------------------------------------------------
+9. DUPLICATIVE
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent that it 
+substantially duplicates and repeats questions previously propounded and 
+responded to, and is thus merely propounded to vex and harass.
+
+--------------------------------------------------------------------------------
+10. ESI BURDEN
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent that it 
+seeks disclosure of electronically stored information (ESI) from sources that 
+are not reasonably accessible because of undue burden or cost.
+
+--------------------------------------------------------------------------------
+11. OPPRESSIVE / BURDENSOME
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+is oppressive, burdensome, and harassing.
+
+--------------------------------------------------------------------------------
+12. NOT FULL AND COMPLETE
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+is not full and complete in and of itself in violation of Code of Civil 
+Procedure section 2033.060(d).
+
+--------------------------------------------------------------------------------
+13. ANNOYANCE
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent it is so 
+overbroad in time and scope as to be an unwarranted annoyance and embarrassment.
+
+--------------------------------------------------------------------------------
+14. EQUALLY AVAILABLE
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] on the grounds that it 
+seeks information that is already in the possession of the Propounding Party or 
+is equally available to the Propounding Party from public records or other 
+sources.
+
+--------------------------------------------------------------------------------
+15. PUBLIC DOMAIN
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent it seeks 
+information in the public domain; such information is beyond the proper scope 
+of discovery as it is equally or more readily accessible to the Propounding 
+Party.
+
+--------------------------------------------------------------------------------
+16. ATTORNEY-CLIENT PRIVILEGE
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent it seeks 
+the disclosure of information protected from discovery by the attorney-client 
+privilege. (Evid. Code § 954.) This includes confidential communications 
+between a client and their attorney made in the course of that relationship.
+
+--------------------------------------------------------------------------------
+17. WORK PRODUCT
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent it seeks 
+the disclosure of information or documents protected from discovery by the 
+attorney work product doctrine. (Cal. Code Civ. Proc. §§ 2018.020, 2018.030.) 
+This objection applies to any writing that reflects an attorney's impressions, 
+conclusions, opinions, or legal research or theories.
+
+--------------------------------------------------------------------------------
+18. PRIVACY (RESPONDING PARTY)
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent it seeks 
+information protected by Responding Party's right of privacy under the 
+California Constitution (Article I, Section 1). The request seeks private, 
+confidential, or sensitive information [SPECIFY category, e.g., "financial 
+records" or "medical history"] that is not relevant to the subject matter of 
+this action, and the Propounding Party's need for the information does not 
+outweigh Responding Party's right to privacy.
+
+--------------------------------------------------------------------------------
+19. PRIVACY (THIRD PARTIES)
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent it seeks 
+information protected by the right of privacy of third parties under the 
+California Constitution (Article I, Section 1). The request seeks private, 
+confidential, or sensitive information regarding individuals who are not 
+parties to this litigation.
+
+--------------------------------------------------------------------------------
+20. JOINT DEFENSE PRIVILEGE
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent it calls 
+for information protected by the joint defense privilege.
+
+--------------------------------------------------------------------------------
+21. ANTICIPATION OF LITIGATION
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent it seeks 
+the disclosure of information or documents obtained or created in anticipation 
+of or after the commencement of litigation.
+
+--------------------------------------------------------------------------------
+22. PREMATURE
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] to the extent that it 
+is premature in that Responding Party has not had a reasonable opportunity in 
+which to conduct an investigation and discovery regarding the information 
+requested.
+
+--------------------------------------------------------------------------------
+23. SETTLEMENT PRIVILEGE
+--------------------------------------------------------------------------------
+Responding Party objects to this [interrogatory/request] as seeking information 
+protected by the settlement privilege. (Evid. Code § 1152.)
+
+--------------------------------------------------------------------------------
+24. DEFINITION OVERBROAD
+--------------------------------------------------------------------------------
+Responding Party objects that the definition of "[SPECIFY TERM]" as used in 
+these [interrogatories/requests] is overbroad and/or vague, rendering this 
+[interrogatory/request] unduly burdensome and not reasonably particularized.
+
+================================================================================
+INCORPORATION LANGUAGE (Use for ALL responses)
+================================================================================
+
+Responding Party incorporates by reference the Preliminary Statement and General 
+Objections, above, as if fully set forth herein.
+
+================================================================================
+TRANSITION LANGUAGE (Use after objections, before substantive response)
+================================================================================
+
+Subject to, and without waiving, the Preliminary Statement, General Objections, 
+and the foregoing objections, Responding Party responds as follows:
+
+================================================================================
+SUBSTANTIVE RESPONSE FORMATS
+================================================================================
+
+FOR INTERROGATORIES:
+- [Direct answer]
+- Unknown at this time.
+- Not applicable. [SPECIFY reason]
+- Discovery is ongoing and Responding Party reserves the right to amend or 
+  supplement this response.
+
+FOR RFAs:
+- Admit.
+- Deny.
+- Deny as [SPECIFY explanation].
+- After reasonable inquiry, insufficient information to admit or deny.
+
+FOR RPDs:
+- Will comply and produce responsive documents.
+- Subject to objections, will produce non-privileged responsive documents.
+- Unable to comply; documents never existed / lost / not in possession.
+
+================================================================================
+NOTES FOR AI DRAFTING
+================================================================================
+
+1. ALWAYS begin with incorporation language
+2. Draft specific objections as flowing prose (no bullet points)
+3. ALWAYS include transition language before substantive response
+4. ALWAYS include a substantive response
+5. Combine multiple objections naturally
+6. Use cell notes and case summary for case-specific reasoning

@@ -1,0 +1,98 @@
+{
+  "schema_version": "3.1",
+  "created": "2025-12-18T12:15:36.508362",
+  "last_updated": "2025-12-18T12:15:36.509548",
+  "baselines": {
+    "files": {
+      "objection_language.txt": {
+        "hash": "73134b95a1f6b249",
+        "captured_at": "2025-12-18T12:15:36.508375"
+      },
+      "case_summary.txt": {
+        "hash": "45c6e6f473099fee",
+        "captured_at": "2025-12-18T12:15:36.508375"
+      },
+      "Form_Rogs.txt": {
+        "hash": "da4d78466905707c",
+        "captured_at": "2025-12-18T12:15:36.508375"
+      },
+      "form_rogs_matrix.csv": {
+        "hash": "d5b956b370b9e3d2",
+        "captured_at": "2025-12-18T12:15:36.508375"
+      }
+    }
+  },
+  "pairs": {
+    "Form_Rogs|form_rogs_matrix": {
+      "discovery": "Form_Rogs.txt",
+      "matrix": "form_rogs_matrix.csv",
+      "type": "FROG",
+      "requests": {
+        "1.1": {
+          "objections": [
+            "Relevance",
+            "Vague & Ambiguous",
+            "Attorney-Client",
+            "Work Product"
+          ],
+          "notes": "",
+          "captured_at": "2025-12-18T12:15:36.508375"
+        },
+        "2.12": {
+          "objections": [
+            "Relevance",
+            "Vague & Ambiguous",
+            "Speculation",
+            "Expert Opinion",
+            "Overbroad",
+            "Oppressive",
+            "Privacy (RP)"
+          ],
+          "notes": "",
+          "captured_at": "2025-12-18T12:15:36.508375"
+        },
+        "2.13": {
+          "objections": [
+            "Relevance",
+            "Expert Opinion",
+            "Overbroad",
+            "Privacy (RP)"
+          ],
+          "notes": "",
+          "captured_at": "2025-12-18T12:15:36.508375"
+        },
+        "4.1": {
+          "objections": [
+            "Relevance",
+            "Overbroad",
+            "Work Product",
+            "Privacy (RP)"
+          ],
+          "notes": "",
+          "captured_at": "2025-12-18T12:15:36.508375"
+        },
+        "20.11": {
+          "objections": [
+            "Relevance",
+            "Vague & Ambiguous",
+            "Speculation",
+            "Overbroad",
+            "Equally Available"
+          ],
+          "notes": "",
+          "captured_at": "2025-12-18T12:15:36.508375"
+        }
+      }
+    }
+  },
+  "history": [
+    {
+      "action": "init",
+      "timestamp": "2025-12-18T12:15:36.508375",
+      "pairs_count": 1,
+      "pair_ids": [
+        "Form_Rogs|form_rogs_matrix"
+      ]
+    }
+  ]
+}
