@@ -6,9 +6,7 @@ Generates first-draft discovery responses by letting an AI assemble objections f
 ---
 
 ## Purpose
-Discovery objections are formulaic. The same fifteen objections get lodged in the same boilerplate language across hundreds of requests. But drafting them still takes hours—time billed to clients for work that doesn't require legal judgment, just assembly.
-
-The risk of rushing is waiver. Miss an objection you should have lodged, and you may have waived it. Accidentally include one you shouldn't have, and you look sloppy or invite a meet-and-confer.
+Discovery objections are formulaic. The same fifteen objections get lodged in the same boilerplate language across hundreds of requests. But drafting them still takes hours—time billed to clients for work that doesn't require legal judgment, just assembly. But the risk of rushing is waiver. Miss an objection you should have lodged, and you may have waived it. Accidentally include one you shouldn't have, and you look sloppy. Superfluous objections water down valid ones.
 
 This system puts the AI in the driver's seat as the drafter. You supply:
 - Your firm's approved objection language
