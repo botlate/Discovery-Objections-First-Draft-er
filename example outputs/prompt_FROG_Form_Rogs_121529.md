@@ -1,6 +1,6 @@
 # PROMPT PACKAGE: FROG
 **Generated:** 2025-12-18 12:15:29
-**Working Directory:** `K:\JT\terracina\objections\test_case`
+**Working Directory:** `K:\objections\test_case`
 **Discovery File:** `Form_Rogs.txt`
 **Matrix File:** `form_rogs_matrix.csv`
 **Explanation Level:** Low
@@ -9,7 +9,7 @@
 
 ## SETUP & CONTEXT
 
-**Working Folder:** `K:\JT\terracina\objections\test_case`
+**Working Folder:** `K:\objections\test_case`
 
 Before drafting responses, review the following context documents in the working folder:
 
@@ -23,7 +23,7 @@ These documents are included below for your reference.
 
 ## DRAFTING INSTRUCTIONS
 
-Draft FROG responses using the **JT three-layer format**.
+Draft FROG responses using the **three-layer format**.
 Use **"interrogatory"** as the discovery type (not "request" generically).
 
 ### STRUCTURE (every response MUST follow)
@@ -481,3 +481,4 @@ and the foregoing objections, Responding Party responds as follows:
 
 ---
 ```
+
