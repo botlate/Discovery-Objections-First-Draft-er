@@ -152,7 +152,7 @@ Your firm's approved boilerplate. Number each template so the AI can reference t
 Responding Party objects to this [interrogatory/request] on the grounds that it 
 seeks information that is not relevant to the subject matter of the pending 
 action and is not reasonably calculated to lead to the discovery of admissible 
-evidence. (Cal. Code Civ. Proc. § 2017.010.)
+evidence. (Code Civ. Proc. § 2017.010.)
 
 --------------------------------------------------------------------------------
 2. COMPOUND
